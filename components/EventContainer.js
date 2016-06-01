@@ -204,13 +204,13 @@ class EventContainer extends React.Component {
 
                 <p>你们的目光，无论赞赏还是批评，都是这条未知路上最美的陪伴。</p>
 
-                <p>我们努力，在不远的未来，将武汉TEDx社区构筑完成，不论是TEDxOpticalvally还是TEDxDōngHú，甚至是TEDxWuhan，让我们再次相约某一天，一起只做一件事：）</p>
+                <p>我们努力，在不远的未来，将武汉TEDx社区构筑完成，不论是TEDxGuanggu还是TEDxDōngHú，甚至是TEDxWuhan，让我们再次相约某一天，一起只做一件事：）</p>
             </section>
         </div>;
         var event_content_3 = <div className={styles.content_container}>
             <section className={styles.event_content}>
                 <div className={styles.back} onClick={this.onBack.bind(this)}>返回</div>
-                <label>友言 |OV与第一位找到的老友见面后</label>
+                <label>友言 |TEDxGuanggu与第一位找到的老友见面后</label>
             </section>
             <section className={styles.event_content}>
                 <p>三月的某一天，一篇发布于2015年9月10日的豆瓣日记，将我们带到了第一位老友面前。她叫款款。
@@ -234,7 +234,7 @@ class EventContainer extends React.Component {
                 <b>文/杜款款
                 </b>
 
-                <p>亲爱的TEDxOV团队：
+                <p>亲爱的TEDxGuanggu团队：
                 </p>
 
                 <p>看到你们的发布的《寻友启事》后，我想对你们说：缘分，真是这个世界上最奇妙的东西。
@@ -290,7 +290,7 @@ class EventContainer extends React.Component {
                 </p>
 
                 <p>
-                    376天前，TEDxOV发布了第一篇推文。2015年12月14日，我们似乎出了趟远门，不短的一段时间内几乎没有我们的一丁点儿消息。带着歉意与期待，我们尝试着联系每一个曾在一年前为我们投来热切目光的你，我们正在努力地发送邮件至他们留下的邮箱里。
+                    376天前，TEDxGuanggu发布了第一篇推文。2015年12月14日，我们似乎出了趟远门，不短的一段时间内几乎没有我们的一丁点儿消息。带着歉意与期待，我们尝试着联系每一个曾在一年前为我们投来热切目光的你，我们正在努力地发送邮件至他们留下的邮箱里。
                 </p>
 
                 <p>我们还是有点担心，他们会不会没有检查邮件的习惯，或者，他们已经更换了邮箱地址。
@@ -303,7 +303,7 @@ class EventContainer extends React.Component {
                 <b>寻人启事
                 </b>
 
-                <p>TEDxOV倾听者，
+                <p>TEDxGuanggu倾听者，
                 </p>
 
                 <p>热爱奇思妙想，对有意思的人和行动保持敏感，
@@ -358,10 +358,10 @@ class EventContainer extends React.Component {
                 </p>
             </section>
             <section className={styles.event_content}>
-                <p>【欢迎发送你的创见至公众号后台，老友们可以直接回复邮件至邮箱tedxov@tedxwuhan.org】
+                <p>【欢迎发送你的创见至公众号后台，老友们可以直接回复邮件至邮箱contact@tedxguanggu.org】
                 </p>
 
-                <p>【留言可以是有趣的身边事、好玩的新点子，或是想对TEDxOV说的所有话。我们将于接下来几天，陆续在固定位置推出有感触有意思的留言。】
+                <p>【留言可以是有趣的身边事、好玩的新点子，或是想对TEDxGuanggu说的所有话。我们将于接下来几天，陆续在固定位置推出有感触有意思的留言。】
                 </p>
             </section>
         </div>;
@@ -375,14 +375,14 @@ class EventContainer extends React.Component {
             </section>
             <section className={styles.event_content}>
                 <p>
-                    寻友启事发布第三天，许多老友与TEDxOV重新建立起联系，发来了问候的话语。见到你们的字，如同与你们见面一样，非常令我们心动。留言有积极回忆现场故事的，有表达期待下次相见的，有温言宽慰出门许久的我们的，也有向我们提好建议的。
+                    寻友启事发布第三天，许多老友与TEDxGuanggu重新建立起联系，发来了问候的话语。见到你们的字，如同与你们见面一样，非常令我们心动。留言有积极回忆现场故事的，有表达期待下次相见的，有温言宽慰出门许久的我们的，也有向我们提好建议的。
                 </p>
 
                 <p>真是，世间有温情，人间有真爱。
                 </p>
 
                 <p>
-                    留言还有一类，询问着——要如何报名加入到TEDxOV团队；志愿者招募界面在哪里；如何进行观众报名。回答是：TEDxOpticsvalley2016年年度大会将于4月30日举办，近期会开始志愿者招募和观众报名，请大家密切关注这几天微信公众号的推文。
+                    留言还有一类，询问着——要如何报名加入到TEDxGuanggu团队；志愿者招募界面在哪里；如何进行观众报名。回答是：TEDxOpticsvalley2016年年度大会将于4月30日举办，近期会开始志愿者招募和观众报名，请大家密切关注这几天微信公众号的推文。
                 </p>
 
                 <p>接下来是一部分老友的留言。谢谢那些帮助我们找老友的好心人，谢谢联系我们的所有朋友。
@@ -507,7 +507,7 @@ class EventContainer extends React.Component {
                         <hr/>
                         <section className={styles.event_content}>
                             <label className={styles.event_title} onClick={this.onSelectTitle.bind(this, 3)}>友言
-                                |OV与第一位找到的老友见面后</label>
+                                |TEDxGuanggu与第一位找到的老友见面后</label>
 
                             <p>April 10 , 2016</p>
                         </section>
